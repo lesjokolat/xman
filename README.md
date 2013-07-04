@@ -1,3 +1,3 @@
 xman
 ====
-For iwik logos im adding them here.
+For Piwik device brand logos im adding them here.
